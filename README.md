@@ -1,1 +1,1 @@
-# THENAME - python HTTP client generator from OpenAPI schema 
+# openapi_client_generator - Async http client generator from OpenAPI schema
