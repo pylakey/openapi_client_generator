@@ -1,0 +1,1 @@
+# THENAME - python HTTP client generator from OpenAPI schema 
